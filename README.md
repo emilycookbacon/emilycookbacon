@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am a student at Brigham Young University getting my degree in Statistics emphasizing in Data Science and minoring in Business. 
+I am a research assistant using K-means clustering on underwater acoustic data. 
+
 <!--
 **emilycookbacon/emilycookbacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
